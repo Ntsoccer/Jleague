@@ -83,9 +83,6 @@
 .card-item:nth-child(2n){
     margin-right: 0;
 }
-.card-img{
-    width: 100%;
-}
 #team .card-item-title{
     font-size: 1.3em;
     margin-top: 26px;
